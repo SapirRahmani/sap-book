@@ -1,0 +1,13 @@
+#upload-input{ 
+    display:none
+}
+.upload-button{
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.upload-div{
+    margin:  5px 0 5px 0 ;
+    border: 1px solid rgb(173, 173, 173);
+}
